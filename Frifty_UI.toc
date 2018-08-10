@@ -1,0 +1,10 @@
+## Interface: 80000
+
+## Title: Frifty UI
+## Version: 0.8 Beta
+## Notes: User Interface addon for Mythic+
+## Author: Frifty
+## eMail: frifty.gaming@gmail.com
+## DefaultState: enabled
+
+Configuration.lua
